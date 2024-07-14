@@ -4,3 +4,4 @@ hello, wisdom here.
 -i occassionally engineer in solidity, rust and python(rarely).
 - anime, cartoons, comics, manga..
 - interested in protocol, cryptography and infra research.
+- im a cys undergrad.
