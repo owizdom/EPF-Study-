@@ -1,0 +1,17 @@
+In this week, i learnt about the core etehreum protocol.
+i learnt ethereum is made up of :
+- EVM
+- Ethereum Blockchain
+- Ethereum network
+i went further to kearn what makes up an ethereum virtual machinr, the 3 critical properties and so on.
+i went furter into leatning about ethereum blockchain and networks, sharding, offchain scaling solutions.
+i also learnt about nodes and client in ethereum network.
+an ethereum bode is made up of the following
+- execution client which handles incoming txs, handles execution states, etc. it is responsible for operating the computing platform.
+- consensus client which handles that the network adheres to the ethereum rules.it is responsible for PoS security.
+
+i also learnt about Ethereum block production and also went briefly into ethereum future roadmap.
+
+i took the ethereum quiz on the offical website and got a score of 59/59 - 😶 y'know i failed some obviously.
+
+see ya.
